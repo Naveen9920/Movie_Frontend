@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ** Full-stack movie analysis dashboard using React, Node.js, Express, MongoDB, and OMDb API(MERN STACK).
 ** Features:
 Search movies by title
@@ -24,3 +25,6 @@ npm run dev
 ** To access /stats:
 Username: admin
 Password: 123456
+=======
+# Movie_Frontend
+>>>>>>> d1d5580938177ecd085befbe8a79c3aab8355b32
